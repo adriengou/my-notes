@@ -1,1 +1,2 @@
 - [Official Git book here](https://git-scm.com/book/en/v2)
+- [Git and Github course on Openclassrooms](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
